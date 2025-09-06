@@ -11,6 +11,12 @@ Includes:
 - Delete patients (with cascade option) + Admin audit log
 - Theming (Teal/Light/Dark)
 
+## Overview of the AGENT
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 6, 2025, 01_50_22 PM" src="https://github.com/user-attachments/assets/51201eeb-2597-48f4-8cb3-0d922dce8321" />
+
+
+
 ## Run (Windows PowerShell)
 
 ```powershell
