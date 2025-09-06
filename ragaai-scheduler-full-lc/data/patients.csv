@@ -1,0 +1,3 @@
+patient_id,first_name,last_name,dob,phone,email,is_returning,checked_out
+P1001,varada,da,1996-07-03,+91-9458615235,varadavaidya07@gmail.com,0,1
+P1002,Alex,Kumar,1992-04-18,+91-98765-43210,alex@example.com,0,0
