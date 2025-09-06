@@ -27,4 +27,5 @@ streamlit run app.py
 ``` winget install Ollama.Ollama
 ollama pull llama3
 ollama run llama3
-ollama list ```
+ollama list
+```
