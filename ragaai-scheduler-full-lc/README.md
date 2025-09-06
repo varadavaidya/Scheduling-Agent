@@ -10,7 +10,13 @@ Includes:
 - Export appointments to Excel
 - Delete patients (with cascade option) + Admin audit log
 
-# LangGraph and LangChain 
+## Overview of the AGENT
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 6, 2025, 01_50_22 PM" src="https://github.com/user-attachments/assets/2c64e8dd-50d7-4fe9-9faf-60591c9a4a70" />
+
+
+
+## LangGraph and LangChain 
 
 They help ntegrate several tools such as doctors side, patient side, 
 scheduler, reminders, and database calling. specifically: 
