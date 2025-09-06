@@ -1,5 +1,5 @@
 
-# RagaAI Scheduler — Full Build
+# AI Scheduler — Full Build
 
 Includes:
 - Patient chatbot + Admin
@@ -9,7 +9,6 @@ Includes:
 - Insurance versioning + audit log
 - Export appointments to Excel
 - Delete patients (with cascade option) + Admin audit log
-- Theming (Teal/Light/Dark)
 
 ## Run (Windows PowerShell)
 
@@ -22,3 +21,10 @@ notepad .env   # set LLM_PROVIDER=ollama, OLLAMA_MODEL=llama3
 # (Optional) assets\intake_form.pdf
 streamlit run app.py
 ```
+
+## To install OLLAMA's LLAMA3 (PowerShell)
+
+``` winget install Ollama.Ollama
+ollama pull llama3
+ollama run llama3
+ollama list ```
