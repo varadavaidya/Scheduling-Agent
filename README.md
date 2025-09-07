@@ -1,5 +1,5 @@
 
-# RagaAI Scheduler — Full Build
+# AI Scheduler — Full Build
 
 Includes:
 - Patient chatbot + Admin
