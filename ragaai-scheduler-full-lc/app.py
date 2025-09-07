@@ -22,7 +22,7 @@ _sched_boot()
 # ---- Env & Page ----
 load_dotenv()
 _patient_boot()
-st.set_page_config(page_title="RagaAI Scheduler", page_icon="🩺", layout="wide")
+st.set_page_config(page_title="AI Scheduler", page_icon="🩺", layout="wide")
 
 # ---- Force Light Theme (no dark switch) ----
 pal = {
@@ -50,7 +50,7 @@ div[data-testid="stChatMessage"] {{
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🩺 AI Scheduling Agent — RagaAI Case Study")
+st.title("🩺 AI Scheduling Agent — By Varada")
 
 # ---- Session init ----
 if "graph" not in st.session_state:
